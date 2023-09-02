@@ -1,0 +1,46 @@
+body{
+    padding: 0 3em 0;
+}
+
+img{
+    width: 30%;
+}
+
+p{
+    width: 50%;
+    line-height: 1.7;
+}
+h2{
+    text-transform: capitalize;
+}
+
+li{
+    text-transform: capitalize;
+}
+
+label{
+    text-transform: capitalize;
+}
+input{
+padding: 1em;
+margin-left: 1em;
+
+}
+
+div{
+    margin-bottom: 2em;
+}
+select{
+
+    padding: 1em;
+}
+
+option{
+    text-align: center;
+}
+
+button{
+    background-color: #eee;
+    flex-direction: column;
+    padding: 1em 3em;
+}
